@@ -1,0 +1,114 @@
+FULL CHRONOLOGICAL TABLE
+Start    End      Spk  Emotion   Text
+------   ------   ---  --------  ----
+  0.00–  7.00  UNK  anger     Excuse me?
+  7.00– 10.00  UNK  neutral   Do you have your forms?
+ 10.00– 11.00  UNK  neutral   Yeah.
+ 11.00– 17.00  UNK  surprise  Can you see them?
+ 17.00– 18.00  SPEAKER_02  neutral   Is there a problem?
+ 18.00– 20.00  SPEAKER_02  surprise  Who told you to get in this line?
+ 20.00– 21.00  SPEAKER_02  neutral   You did.
+ 21.00– 22.00  UNK  neutral   No.
+ 22.00– 24.00  UNK  disgust   You were standing at the beginning and directed me.
+ 24.00– 28.00  UNK  neutral   Okay, but I didn't tell you to get in this line if [...]
+ 28.00– 29.00  SPEAKER_01  anger     Well, what's the problem?
+ 29.00– 30.00  SPEAKER_01  anger     What's the problem?
+ 30.00– 31.00  SPEAKER_02  anger     Let me change it.
+ 31.00– 35.00  UNK  neutral   This is not the line for the ZX4.
+ 35.00– 39.00  SPEAKER_02  neutral   If you're going to fill out the ZX4, you need to have [...]
+ 39.00– 41.00  UNK  neutral   I'm getting an ID. This is why I'm here.
+ 41.00– 46.00  UNK  neutral   No, I need another set of ID to prove that this is [...]
+ 46.00– 49.00  UNK  surprise  How am I supposed to get an ID without an ID?
+ 49.00– 51.00  SPEAKER_00  neutral   How does the person get an ID in the first place?
+ 51.00– 55.00  UNK  neutral   I don't know, but I need an ID to pass this form along.
+ 55.00– 57.00  SPEAKER_02  neutral   I can't just send it along without an ID.
+ 57.00– 58.00  SPEAKER_01  neutral   I'm here to get an ID.
+ 58.00– 62.00  UNK  neutral   No, I need another ID. A separate one.
+ 62.00– 63.00  UNK  neutral   Like what?
+ 63.00– 65.00  UNK  neutral   Like a birth certificate?
+ 65.00– 66.00  UNK  joy       A birth certificate.
+ 66.00– 68.00  SPEAKER_02  surprise  Who the hell has a birth certificate?
+ 68.00– 72.00  SPEAKER_02  surprise  A student ID. Didn't you go to school? Anything?
+ 72.00– 76.00  UNK  sadness   Yes, but my wallet was stolen. I don't have anything.
+ 76.00– 79.00  SPEAKER_01  neutral   I don't have any credit cards. I don't have my ID.
+ 79.00– 81.00  SPEAKER_01  disgust   Don't you have things on file here?
+ 81.00– 85.00  UNK  neutral   Yeah, we keep it on file, but we need an ID to access [...]
+ 85.00– 87.00  SPEAKER_02  anger     That's out of control.
+ 88.00– 91.00  UNK  surprise  I don't understand why this is so complicated for [...]
+ 91.00– 94.00  SPEAKER_02  neutral   It's just a simple form. I just need an ID.
+ 94.00– 97.00  UNK  neutral   How long have you been working here?
+ 97.00– 98.00  UNK  neutral   Actually too long.
+ 98.00–102.00  UNK  neutral   Clearly. You know, do you have like a supervisor or [...]
+102.00–104.00  SPEAKER_01  anger     Yeah. You want to see my supervisor?
+104.00–107.00  SPEAKER_01  anger     You want to see my supervisor? Fine, I'll be right back.
+107.00–118.00  UNK  neutral   Okay, he walks away.
+118.00–123.00  UNK  neutral   Okay, all the cameras, please, on.
+123.00–126.00  UNK  neutral   Microphones.
+126.00–132.00  UNK  neutral   So this is spontaneous tube.
+
+SPEAKER-EMOTION BREAKDOWN
+
+Speaker SPEAKER_00:
+  NEUTRAL  (1)
+    [49.00–51.00] How does the person get an ID in the first place?
+
+Speaker SPEAKER_01:
+  ANGER    (4)
+    [28.00–29.00] Well, what's the problem?
+    [29.00–30.00] What's the problem?
+    [102.00–104.00] Yeah. You want to see my supervisor?
+    [104.00–107.00] You want to see my supervisor? Fine, I'll be right back.
+  NEUTRAL  (2)
+    [57.00–58.00] I'm here to get an ID.
+    [76.00–79.00] I don't have any credit cards. I don't have my ID.
+  DISGUST  (1)
+    [79.00–81.00] Don't you have things on file here?
+
+Speaker SPEAKER_02:
+  NEUTRAL  (5)
+    [17.00–18.00] Is there a problem?
+    [20.00–21.00] You did.
+    [35.00–39.00] If you're going to fill out the ZX4, you need to have a different form of ID.
+    [55.00–57.00] I can't just send it along without an ID.
+    [91.00–94.00] It's just a simple form. I just need an ID.
+  SURPRISE (3)
+    [18.00–20.00] Who told you to get in this line?
+    [66.00–68.00] Who the hell has a birth certificate?
+    [68.00–72.00] A student ID. Didn't you go to school? Anything?
+  ANGER    (2)
+    [30.00–31.00] Let me change it.
+    [85.00–87.00] That's out of control.
+
+Speaker UNK:
+  NEUTRAL  (19)
+    [7.00–10.00] Do you have your forms?
+    [10.00–11.00] Yeah.
+    [21.00–22.00] No.
+    [24.00–28.00] Okay, but I didn't tell you to get in this line if you're filling out this particular form.
+    [31.00–35.00] This is not the line for the ZX4.
+    [39.00–41.00] I'm getting an ID. This is why I'm here.
+    [41.00–46.00] No, I need another set of ID to prove that this is actually you.
+    [51.00–55.00] I don't know, but I need an ID to pass this form along.
+    [58.00–62.00] No, I need another ID. A separate one.
+    [62.00–63.00] Like what?
+    [63.00–65.00] Like a birth certificate?
+    [81.00–85.00] Yeah, we keep it on file, but we need an ID to access that file.
+    [94.00–97.00] How long have you been working here?
+    [97.00–98.00] Actually too long.
+    [98.00–102.00] Clearly. You know, do you have like a supervisor or something?
+    [107.00–118.00] Okay, he walks away.
+    [118.00–123.00] Okay, all the cameras, please, on.
+    [123.00–126.00] Microphones.
+    [126.00–132.00] So this is spontaneous tube.
+  SURPRISE (3)
+    [11.00–17.00] Can you see them?
+    [46.00–49.00] How am I supposed to get an ID without an ID?
+    [88.00–91.00] I don't understand why this is so complicated for people when they get here.
+  ANGER    (1)
+    [0.00–7.00] Excuse me?
+  DISGUST  (1)
+    [22.00–24.00] You were standing at the beginning and directed me.
+  JOY      (1)
+    [65.00–66.00] A birth certificate.
+  SADNESS  (1)
+    [72.00–76.00] Yes, but my wallet was stolen. I don't have anything.

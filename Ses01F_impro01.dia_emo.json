@@ -1,0 +1,310 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.0,
+    "text": "Excuse me?",
+    "speaker": "UNK",
+    "emotion": "anger"
+  },
+  {
+    "start": 7.0,
+    "end": 10.0,
+    "text": "Do you have your forms?",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 10.0,
+    "end": 11.0,
+    "text": "Yeah.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 11.0,
+    "end": 17.0,
+    "text": "Can you see them?",
+    "speaker": "UNK",
+    "emotion": "surprise"
+  },
+  {
+    "start": 17.0,
+    "end": 18.0,
+    "text": "Is there a problem?",
+    "speaker": "SPEAKER_02",
+    "emotion": "neutral"
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "Who told you to get in this line?",
+    "speaker": "SPEAKER_02",
+    "emotion": "surprise"
+  },
+  {
+    "start": 20.0,
+    "end": 21.0,
+    "text": "You did.",
+    "speaker": "SPEAKER_02",
+    "emotion": "neutral"
+  },
+  {
+    "start": 21.0,
+    "end": 22.0,
+    "text": "No.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 22.0,
+    "end": 24.0,
+    "text": "You were standing at the beginning and directed me.",
+    "speaker": "UNK",
+    "emotion": "disgust"
+  },
+  {
+    "start": 24.0,
+    "end": 28.0,
+    "text": "Okay, but I didn't tell you to get in this line if you're filling out this particular form.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 28.0,
+    "end": 29.0,
+    "text": "Well, what's the problem?",
+    "speaker": "SPEAKER_01",
+    "emotion": "anger"
+  },
+  {
+    "start": 29.0,
+    "end": 30.0,
+    "text": "What's the problem?",
+    "speaker": "SPEAKER_01",
+    "emotion": "anger"
+  },
+  {
+    "start": 30.0,
+    "end": 31.0,
+    "text": "Let me change it.",
+    "speaker": "SPEAKER_02",
+    "emotion": "anger"
+  },
+  {
+    "start": 31.0,
+    "end": 35.0,
+    "text": "This is not the line for the ZX4.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 35.0,
+    "end": 39.0,
+    "text": "If you're going to fill out the ZX4, you need to have a different form of ID.",
+    "speaker": "SPEAKER_02",
+    "emotion": "neutral"
+  },
+  {
+    "start": 39.0,
+    "end": 41.0,
+    "text": "I'm getting an ID. This is why I'm here.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 41.0,
+    "end": 46.0,
+    "text": "No, I need another set of ID to prove that this is actually you.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 46.0,
+    "end": 49.0,
+    "text": "How am I supposed to get an ID without an ID?",
+    "speaker": "UNK",
+    "emotion": "surprise"
+  },
+  {
+    "start": 49.0,
+    "end": 51.0,
+    "text": "How does the person get an ID in the first place?",
+    "speaker": "SPEAKER_00",
+    "emotion": "neutral"
+  },
+  {
+    "start": 51.0,
+    "end": 55.0,
+    "text": "I don't know, but I need an ID to pass this form along.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 55.0,
+    "end": 57.0,
+    "text": "I can't just send it along without an ID.",
+    "speaker": "SPEAKER_02",
+    "emotion": "neutral"
+  },
+  {
+    "start": 57.0,
+    "end": 58.0,
+    "text": "I'm here to get an ID.",
+    "speaker": "SPEAKER_01",
+    "emotion": "neutral"
+  },
+  {
+    "start": 58.0,
+    "end": 62.0,
+    "text": "No, I need another ID. A separate one.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 62.0,
+    "end": 63.0,
+    "text": "Like what?",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 63.0,
+    "end": 65.0,
+    "text": "Like a birth certificate?",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 65.0,
+    "end": 66.0,
+    "text": "A birth certificate.",
+    "speaker": "UNK",
+    "emotion": "joy"
+  },
+  {
+    "start": 66.0,
+    "end": 68.0,
+    "text": "Who the hell has a birth certificate?",
+    "speaker": "SPEAKER_02",
+    "emotion": "surprise"
+  },
+  {
+    "start": 68.0,
+    "end": 72.0,
+    "text": "A student ID. Didn't you go to school? Anything?",
+    "speaker": "SPEAKER_02",
+    "emotion": "surprise"
+  },
+  {
+    "start": 72.0,
+    "end": 76.0,
+    "text": "Yes, but my wallet was stolen. I don't have anything.",
+    "speaker": "UNK",
+    "emotion": "sadness"
+  },
+  {
+    "start": 76.0,
+    "end": 79.0,
+    "text": "I don't have any credit cards. I don't have my ID.",
+    "speaker": "SPEAKER_01",
+    "emotion": "neutral"
+  },
+  {
+    "start": 79.0,
+    "end": 81.0,
+    "text": "Don't you have things on file here?",
+    "speaker": "SPEAKER_01",
+    "emotion": "disgust"
+  },
+  {
+    "start": 81.0,
+    "end": 85.0,
+    "text": "Yeah, we keep it on file, but we need an ID to access that file.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 85.0,
+    "end": 87.0,
+    "text": "That's out of control.",
+    "speaker": "SPEAKER_02",
+    "emotion": "anger"
+  },
+  {
+    "start": 88.0,
+    "end": 91.0,
+    "text": "I don't understand why this is so complicated for people when they get here.",
+    "speaker": "UNK",
+    "emotion": "surprise"
+  },
+  {
+    "start": 91.0,
+    "end": 94.0,
+    "text": "It's just a simple form. I just need an ID.",
+    "speaker": "SPEAKER_02",
+    "emotion": "neutral"
+  },
+  {
+    "start": 94.0,
+    "end": 97.0,
+    "text": "How long have you been working here?",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 97.0,
+    "end": 98.0,
+    "text": "Actually too long.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 98.0,
+    "end": 102.0,
+    "text": "Clearly. You know, do you have like a supervisor or something?",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 102.0,
+    "end": 104.0,
+    "text": "Yeah. You want to see my supervisor?",
+    "speaker": "SPEAKER_01",
+    "emotion": "anger"
+  },
+  {
+    "start": 104.0,
+    "end": 107.0,
+    "text": "You want to see my supervisor? Fine, I'll be right back.",
+    "speaker": "SPEAKER_01",
+    "emotion": "anger"
+  },
+  {
+    "start": 107.0,
+    "end": 118.0,
+    "text": "Okay, he walks away.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 118.0,
+    "end": 123.0,
+    "text": "Okay, all the cameras, please, on.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 123.0,
+    "end": 126.0,
+    "text": "Microphones.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  },
+  {
+    "start": 126.0,
+    "end": 132.0,
+    "text": "So this is spontaneous tube.",
+    "speaker": "UNK",
+    "emotion": "neutral"
+  }
+]

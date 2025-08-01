@@ -1,0 +1,9 @@
+torch>=2.2
+torchaudio
+numpy
+librosa
+soundfile
+sentence-transformers
+datasets
+tqdm
+gdown
