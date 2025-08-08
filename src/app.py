@@ -4,6 +4,7 @@ import pandas as pd
 import torch
 import pathlib
 import sys
+import os
 
 # --- Add project root to path to import other scripts ---
 # This assumes 'app.py' is in the 'src' directory. Adjust if needed.
@@ -37,7 +38,8 @@ def color_emotion(emotion):
 with st.sidebar:
     st.header("⚙️ Settings")
     uploaded_file = st.file_uploader("Upload an audio (.wav) or transcript (.srt, .vtt) file", type=["wav", "srt", "vtt"])
-    hf_token = st.text_input("Hugging Face Token", type="password", help="Required for diarization on audio files.")
+    hf_token = os.getenv("HUGGING_FACE_TOKEN") 
+    print(hf_token)
     run_button = st.button("Analyze Now", disabled=not uploaded_file)
 
 # Main panel for results
